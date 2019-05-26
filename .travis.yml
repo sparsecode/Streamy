@@ -19,7 +19,7 @@ notifications:
 
 # 4. Run sbt
 script:
-  - sbt ++$TRAVIS_SCALA_VERSION clean coverage test scalastyle
+  - sbt ++$TRAVIS_SCALA_VERSION clean coverage test scalastyle coverageReport coverageAggregate
 
   # Trick to avoid unnecessary cache updates
   - find $HOME/.sbt -name "*.lock" | xargs rm

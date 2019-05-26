@@ -1,6 +1,6 @@
 # Streamy
 
-<img src="https://github.com/abhioncbr/Streamy/raw/master/Streamy.png" align="right">
+<img src="https://github.com/abhioncbr/Streamy/raw/master/Streamy.png" align="right" style="width:200px;">
 
 [![Build Status](https://travis-ci.org/abhioncbr/Streamy.svg?branch=master)](https://travis-ci.org/abhioncbr/Streamy/)
 [![License](http://img.shields.io/:license-Apache%202-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
